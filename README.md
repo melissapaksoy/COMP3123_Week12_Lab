@@ -75,6 +75,13 @@ Then open the URL shown in the terminal.
 - React-Redux  
 - Vite  
 
+## 📸 Screenshots
+
+### Login Page
+![Login Page](./src/assets/screenshots/LoginPage.png)
+
+### After Login (Dashboard)
+![Dashboard](./src/assets/screenshots/AfterLogin.png)
 
 ## ✨ Notes
 
